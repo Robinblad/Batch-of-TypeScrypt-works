@@ -1,0 +1,25 @@
+div {
+	width: fit-content;
+}
+
+h2 {
+	text-align: center;
+}
+
+th {
+	text-align: center;
+	padding: 10px;
+	border: 1px solid black;
+}
+
+/*tr {
+	text-align: center;
+	padding: 10px;
+	border: 1px solid black;
+}*/
+
+td {
+	text-align: center;
+	padding: 10px;
+	border: 1px solid black;
+}
